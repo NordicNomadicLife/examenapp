@@ -1,3 +1,4 @@
 # examenapp
 
-lägga till för planerade inköp
+start the app with 
+mvn spring-boot:run
